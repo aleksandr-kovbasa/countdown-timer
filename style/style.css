@@ -1,0 +1,23 @@
+@import "http://fonts.fontstorage.com/import/gagalin.css";
+
+body {
+  font-family: 'Gagalin';
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 1100px;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.time {
+  font-size: 280px;
+}
